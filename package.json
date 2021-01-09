@@ -1,6 +1,7 @@
 {
   "name": "crictraderusermgmt",
   "version": "0.1.0",
+  "description": "This is user management application for the Crictrader project uses AWS Amplify cognito, ReactJS Hooks.",
   "private": true,
   "dependencies": {
     "@aws-amplify/ui-react": "^0.2.33",
